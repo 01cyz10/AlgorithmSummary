@@ -286,7 +286,7 @@ public class DynamicArray {
 
 Big O notation is a mathematical notation used in computer science and mathematics to describe the efficiency or complexity of an algorithm. It provides an upper bound on the asymptotic growth rate of a function, indicating how the runtime or space requirements of an algorithm increase with the size of the input.
 
-![BigONotation](/Users/cyz/Desktop/BigONotation.jpg)
+![BigONotation](img/BigONotation.jpg)
 
 #### Liner Search
 
@@ -560,7 +560,7 @@ Key.hashCode() % 10 capacity = index; formular to caluculate index
 
 	##### Adjacency Matrix
 
-<img src="/Users/cyz/Desktop/Adjacency Matrix.png" alt="Adjacency Matrix" style="zoom:50%;" />
+<img src="img/Adjacency Matrix.png" alt="Adjacency Matrix" style="zoom:50%;" />
 
 runtimr complexity to check edge: O(1)
 
@@ -665,7 +665,7 @@ E 1 0 1 0 0
 
 	##### Adjacency List
 
-<img src="/Users/cyz/Desktop/Adjacency List.png" alt="Adjacency List" style="zoom: 33%;" />
+<img src="img/Adjacency List.png" alt="Adjacency List" style="zoom: 33%;" />
 
 runtime complexity to check an edge; O(v);
 
@@ -959,5 +959,9 @@ Pre-order: root -> left -> right (e.g. A B D E C F G)
 #### Appendix
 
 https://www.runoob.com/w3cnote/ten-sorting-algorithm.html
-
+https://www.programiz.com/dsa/graph-adjacency-matrix
+https://www.programiz.com/dsa/graph-adjacency-list
+https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
 https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/
+
+Thanks for images and code from Code Bro yt channel
