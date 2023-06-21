@@ -958,10 +958,10 @@ Pre-order: root -> left -> right (e.g. A B D E C F G)
 
 #### Appendix
 
-https://www.runoob.com/w3cnote/ten-sorting-algorithm.html
-https://www.programiz.com/dsa/graph-adjacency-matrix
-https://www.programiz.com/dsa/graph-adjacency-list
-https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
-https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/
+https://www.runoob.com/w3cnote/ten-sorting-algorithm.html <br>
+https://www.programiz.com/dsa/graph-adjacency-matrix <br>
+https://www.programiz.com/dsa/graph-adjacency-list <br>
+https://www.youtube.com/watch?v=xX5iOYCJmBI&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8 <br>
+https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/ <br>
 
 Thanks for images and code from Code Bro yt channel
